@@ -6,7 +6,7 @@
 <h1>Cool! you did it!</h1>
 <img src="lion.png">
 
-<h2>Never give up! hi, this is devops session, how are u</h2>
+<h2>hi this is shanth and my native pincode is 577522</h2>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
