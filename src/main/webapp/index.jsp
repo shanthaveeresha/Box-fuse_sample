@@ -6,7 +6,7 @@
 <h1>Cool! you did it!</h1>
 <img src="lion.png">
 
-<h2>You need to hunt for knowledge Devops Engineer's!</h2>
+<h2>Never give up!</h2>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
