@@ -4,7 +4,7 @@
 </head>
 <body style="text-align: center">
 <h1>Cool! you did it!</h1>
-<img src="lion.png">
+<img src="download.jpeg">
 
 <h2>hi this is shanth and my native pincode is 577522/</h2>
 
