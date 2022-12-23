@@ -1,12 +1,12 @@
 <html>
 <head>
-    <title>Boxfuse Sample App: success!</title>
+    <title>Welcome to DevOps: success!</title>
 </head>
 <body style="text-align: center">
 <h1>Cool! you did it!</h1>
 <img src="download.jpeg">
 
-<h2>hi this is shanth and my native pincode is 577522/</h2>
+<h2>Hi, All From now onwords you need to work more stay focused & work hard/</h2>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
