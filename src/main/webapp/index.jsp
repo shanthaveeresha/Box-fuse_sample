@@ -4,7 +4,7 @@
 </head>
 <body style="text-align: center">
 <h1>Cool! you did it!</h1>
-<img src="https://www.useready.com/wp-content/uploads/2023/06/useready-logo-caption.png">
+<img src="https://www.useready.com/wp-content/uploads/2020/03/logo-pixel-perfect-new-1.png">
 
 <h2>Hi, war Deployed successfully /</h2>
 
