@@ -3,7 +3,7 @@
     <title>Deployed successfully</title>
 </head>
 <body style="text-align: center">
-<h1>Cool! you did it!</h1>
+<h1>Cool!</h1>
 <img src="https://www.useready.com/wp-content/uploads/2020/03/logo-pixel-perfect-new-1.png">
 
 <h2>Hi, war Deployed successfully /</h2>
@@ -47,7 +47,7 @@
     </strong>
 </p>
 <% } else { %>
-<h2 style="margin-top: 80px">Now it's your decision you earn!</h2>
+<h2 style="margin-top: 80px">Deployed</h2>
 
 <p>Check out <strong><a href="https://github.com/boxfuse/boxfuse-sample-java-war-hello">this app</a></strong> from GitHub, modify it, and give it version 2.<br/>You are now ready to fuse and <strong>deploy it with zero downtime</strong> using the commands you already know.</p>
 
