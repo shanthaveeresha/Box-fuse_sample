@@ -6,7 +6,7 @@
 <h1>Cool!</h1>
 <img src="https://www.useready.com/wp-content/uploads/2020/03/logo-pixel-perfect-new-1.png">
 
-<h2>Hi, war Deployed successfully /</h2>
+<h2>Hi, war file Deployed successfully /</h2>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
