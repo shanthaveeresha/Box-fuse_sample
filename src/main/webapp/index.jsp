@@ -4,9 +4,9 @@
 </head>
 <body style="text-align: center">
 <h1>Cool! you did it!</h1>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.useready.com%2Fproduct%2Fpixel-perfect%2F&psig=AOvVaw16hUjaakx2DmGyl_HGXGgB&ust=1697475766313000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJjCqpXE-IEDFQAAAAAdAAAAABAD">
+<img src="https://www.useready.com/wp-content/uploads/2023/06/useready-logo-caption.png">
 
-<h2>Hi, All/</h2>
+<h2>Hi, war Deployed successfully /</h2>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
